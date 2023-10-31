@@ -9,7 +9,7 @@ class CustomList
     private int $length ;
     public function __construct()
     {
-        $this->memory = [1];
+        $this->memory = [];
         $this->length = 0;
     }
 
