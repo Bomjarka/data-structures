@@ -1,6 +1,8 @@
 {
     "name": "bomjarka/data-structures",
+    "description": "Just base data structures for learning",
     "type": "project",
+    "license": "MIT",
     "require": {
         "php": "^8.1"
     },
